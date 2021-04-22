@@ -1,0 +1,3 @@
+ARG VARIANT="14-alpine"
+
+FROM node:${VARIANT}
